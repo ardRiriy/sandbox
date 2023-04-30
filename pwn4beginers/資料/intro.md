@@ -3,7 +3,7 @@ marp: true
 theme: uncover
 ---
 <!-- paginate: true -->
-# Pwnable | Forensics 講習会
+# Pwnable | Forensics 講習
 by ardririy(りり) 
 
 ---
