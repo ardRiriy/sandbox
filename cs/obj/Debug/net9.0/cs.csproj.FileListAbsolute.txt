@@ -1,0 +1,15 @@
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/bin/Debug/net9.0/cs
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/bin/Debug/net9.0/cs.deps.json
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/bin/Debug/net9.0/cs.runtimeconfig.json
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/bin/Debug/net9.0/cs.dll
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/bin/Debug/net9.0/cs.pdb
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/obj/Debug/net9.0/cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/obj/Debug/net9.0/cs.AssemblyInfoInputs.cache
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/obj/Debug/net9.0/cs.AssemblyInfo.cs
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/obj/Debug/net9.0/cs.csproj.CoreCompileInputs.cache
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/obj/Debug/net9.0/cs.sourcelink.json
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/obj/Debug/net9.0/cs.dll
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/obj/Debug/net9.0/refint/cs.dll
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/obj/Debug/net9.0/cs.pdb
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/obj/Debug/net9.0/cs.genruntimeconfig.cache
+/Users/nnn-nakagawa-hayana/repos/sandbox/cs/obj/Debug/net9.0/ref/cs.dll
